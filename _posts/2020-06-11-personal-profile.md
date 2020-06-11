@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "My Personal Profile"
+date: YYYY-MM-DD
 ---
 
 # Personal Profile
