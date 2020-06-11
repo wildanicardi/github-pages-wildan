@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "My Personal Profile"
-date: YYYY-MM-DD
+date: 2020-06-11
 ---
 
 # Personal Profile
