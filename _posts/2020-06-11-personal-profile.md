@@ -1,11 +1,10 @@
 ---
 layout: post
-title:  "My Personal Profile"
+title: "Personal Profile"
 date: 2020-06-11
 ---
 
 # Personal Profile
-
 this is my personal profile.
 Passion and enthusiastic,I am interested in IT and everything in its orbit, I am so much fascinated By Web programming, I always follow every
 update about web development technology, I am also active in the web development community, such as programming Language or framework Community
